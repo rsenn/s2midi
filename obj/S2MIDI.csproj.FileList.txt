@@ -1,0 +1,9 @@
+obj\Release\ResolveAssemblyReference.cache
+obj\Release\SerialPortTerminal.frmTerminal.resources
+obj\Release\S2MIDI.csproj.GenerateResource.Cache
+bin\Release\S2MIDI.exe.config
+obj\Release\S2MIDI.Properties.Resources.resources
+bin\Release\S2MIDI.exe
+bin\Release\S2MIDI.pdb
+obj\Release\S2MIDI.exe
+obj\Release\S2MIDI.pdb

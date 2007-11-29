@@ -1,0 +1,10 @@
+bin\Debug\SerialPort Terminal.exe.config
+obj\Release\ResolveAssemblyReference.cache
+obj\Release\SerialPortTerminal.frmTerminal.resources
+obj\Release\SerialPortTerminal.Properties.Resources.resources
+obj\Release\SerialPort Terminal.csproj.GenerateResource.Cache
+bin\Release\SerialPort Terminal.exe.config
+bin\Release\SerialPort Terminal.exe
+bin\Release\SerialPort Terminal.pdb
+obj\Release\SerialPort Terminal.exe
+obj\Release\SerialPort Terminal.pdb
