@@ -346,5 +346,10 @@ namespace SerialPortTerminal
         }   
     }
     #endregion
+
+    private void cmbBaudRate_SelectedIndexChanged(object sender, EventArgs e)
+    {
+
+    }
   }
 }
